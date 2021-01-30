@@ -5,12 +5,16 @@
 
 Here are some ideas to get you started:
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya1731" alt="chaitanya1731" /> </p>
 
+<!-- 
 - 🔭 I’m currently working on - 
+- ⚡ Fun fact: 
+--> 
 - 🌱 I’m currently learning - Building Mobile Applications using React Native
 - 💬 Ask me about - Web Development, Full Stack, Kubernetes
 - 📫 Email me at - chaitanya1731@hotmail.com or ckulkar2@binghamton.edu
-- ⚡ Fun fact: 
+
 
 ---
 
