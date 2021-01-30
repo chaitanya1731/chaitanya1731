@@ -39,7 +39,7 @@ const ck = {
     },
     architecture: ["Serverless Architecture", "Microservices", "Single page applications", "MVC", "Onion Architecture"],
     currentFocus: "Building Mobile Applications using React Native",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "Become a programmer, lose your brain's virginity!"
 };
 ```
 
