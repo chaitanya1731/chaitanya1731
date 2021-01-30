@@ -32,7 +32,7 @@ const ck = {
             js: ["Node", "Express", "React"],
             python: ["flask"],
             Java: ["JSP", "Hibernate", "Spring Boot", "Spring MVC"],
-            C\#: ["ASP.NET", "Entity Framework"]
+            C#: ["ASP.NET", "Entity Framework"]
         },
         devOps: ["Google Cloud Platform", "Google Kubernetes Engine", "Docker🐳"],
         databases: ["MongoDB", "MySql", "OLAP", "Oracle"],
