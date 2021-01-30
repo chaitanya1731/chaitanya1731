@@ -34,5 +34,9 @@ Here are some ideas to get you started:
 [facebook]: https://www.facebook.com/iamchaitanyakulkarni/
 
 ---
-[![Chaitanya's github stats](https://github-readme-stats.vercel.app/api?username=chaitanya1731)](https://github.com/anuraghazra/github-readme-stats)
+[![Chaitanya's github stats](https://github-readme-stats.vercel.app/api?username=chaitanya1731&hide=contribs,issues)](https://github.com/chaitanya1731/)
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya1731&hide=CSS&layout=compact)](https://github.com/chaitanya1731/)
+
 
