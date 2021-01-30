@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 --> 
 - 🌱 I’m currently learning - Building Mobile Applications using React Native
-- 💬 Ask me about - Web Development, Full Stack, Kubernetes
 - 📫 Email me at - chaitanya1731@hotmail.com or ckulkar2@binghamton.edu
 
 
