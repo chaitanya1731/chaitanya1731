@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya1731" alt="chaitanya1731" /> </p>
 
-[![WhatsApp Badge](https://img.shields.io/badge/-+16073041931-25D366?style=flat&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=6073041931)](https://api.whatsapp.com/send?phone=6073041931)
+[![WhatsApp Badge](https://img.shields.io/badge/-+16073041931-25D366?style=flat&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=+16073041931)](https://api.whatsapp.com/send?phone=+16073041931)
 
 <!-- 
 - 🔭 I’m currently working on - 
